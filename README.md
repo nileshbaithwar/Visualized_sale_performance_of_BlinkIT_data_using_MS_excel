@@ -8,7 +8,7 @@ This project leverages an **Excel dataset** that contains retail sales data for 
 
 ## 📁 **Dataset Information**
 
-**Dataset File**: `BlinkIT_Sales_Data.xlsx`
+**Dataset File**: `BlinkIT_Data.xlsx`
 **Format**: Excel `.xlsx`
 **Records**: Approximately 8230 rows (sample data)
 **Columns**: 12
@@ -93,26 +93,3 @@ This project leverages an **Excel dataset** that contains retail sales data for 
 2. **Impact of Item Visibility on Sales**: Plot a scatter plot with `Item Visibility` on the X-axis and `Sales` on the Y-axis to observe any correlations.
 3. **Item Weight vs Sales**: Calculate the average sales for each `Item Weight` group and plot the results on a line chart to identify any patterns.
 4. **Rating Distribution**: Use a bar chart to show the number of items by their `Rating` score (e.g., how many items have a rating of 5, 4, etc.).
-
----
-
-## 🛡️ **Data Privacy & Usage Guidelines**
-
-* This dataset is for internal analysis and educational purposes only. Ensure that any sensitive data or proprietary information is handled following your organization's data privacy guidelines.
-* Make sure any public sharing of the dataset does not violate any confidentiality agreements or intellectual property policies.
-
----
-
-## 📞 **Support & Contact**
-
-For questions regarding this project or the dataset, please contact the **BlinkIT Analytics Team** or the project manager.
-
----
-
-### **Changelog**
-
-* **Version 1.0**: Initial release.
-
----
-
-This README provides a clear guide to using the dataset in Excel for a retail sales analysis project. Would you like me to help with creating specific Excel templates or further assisting with analysis techniques?
